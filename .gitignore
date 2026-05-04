@@ -1,6 +1,8 @@
 # Directory generata / esperimenti intermedi
 encoderonly_complete/
 checkpoints/
+distillbert_sst2/
+
 
 # Python
 __pycache__/

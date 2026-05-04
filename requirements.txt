@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 annotated-doc==0.0.4
 anyio==4.13.0
 certifi==2026.4.22
@@ -41,3 +42,8 @@ transformers==5.6.1
 typer==0.24.2
 typing_extensions==4.15.0
 tzdata==2025.3
+=======
+torch
+transformers
+accelerate>=1.1.0
+>>>>>>> 08432dca8cdbdfe6e95a5a2e4b1cb5dae8663be9
